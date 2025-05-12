@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "blur",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "blur::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blur-Debug-a65b72ee1ae12358cee3.json",
+					"name" : "blur",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "blur_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-blur_autogen-Debug-ddf60e2226ed12f340f0.json",
+					"name" : "blur_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cliionproject/skillbox_notGIT/38_3_blur/build-blur-Desktop_Qt_5_12_12_MSVC2017_64bit-Debug",
+		"source" : "D:/cliionproject/skillbox_notGIT/38_3_blur/blur"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

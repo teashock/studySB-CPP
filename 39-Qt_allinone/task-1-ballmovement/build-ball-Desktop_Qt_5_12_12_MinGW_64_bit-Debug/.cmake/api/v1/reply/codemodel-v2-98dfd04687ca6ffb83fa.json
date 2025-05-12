@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ball",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ball::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ball-Debug-a05a34ae7dd739b2a863.json",
+					"name" : "ball",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ball_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ball_autogen-Debug-c75800e5c856c431a80a.json",
+					"name" : "ball_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/cliionproject/skillbox_notGIT/39_1_ball/build-ball-Desktop_Qt_5_12_12_MinGW_64_bit-Debug",
+		"source" : "D:/cliionproject/skillbox_notGIT/39_1_ball/ball"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

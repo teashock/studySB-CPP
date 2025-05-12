@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media/button_down.png</file>
+        <file>media/button_up.png</file>
+        <file>media/signal.mp3</file>
+    </qresource>
+</RCC>

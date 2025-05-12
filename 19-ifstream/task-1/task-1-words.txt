@@ -1,0 +1,11 @@
+apple
+orange
+lime
+apple
+pear
+banana
+apple
+strawberry
+pineapple
+lime
+banana

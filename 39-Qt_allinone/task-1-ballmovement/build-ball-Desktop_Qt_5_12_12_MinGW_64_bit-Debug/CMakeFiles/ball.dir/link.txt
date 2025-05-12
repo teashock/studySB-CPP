@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ball.dir/objects.a
+D:\Qt\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\ball.dir/objects.a @CMakeFiles\ball.dir\objects1.rsp
+D:\Qt\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ball.dir/objects.a -Wl,--no-whole-archive -o ball.exe -Wl,--out-implib,libball.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ball.dir\linkLibs.rsp

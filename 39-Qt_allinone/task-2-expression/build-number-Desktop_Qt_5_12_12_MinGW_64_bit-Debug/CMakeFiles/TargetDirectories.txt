@@ -1,0 +1,4 @@
+D:/cliionproject/skillbox_notGIT/39_2_number/build-number-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/number.dir
+D:/cliionproject/skillbox_notGIT/39_2_number/build-number-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/cliionproject/skillbox_notGIT/39_2_number/build-number-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/cliionproject/skillbox_notGIT/39_2_number/build-number-Desktop_Qt_5_12_12_MinGW_64_bit-Debug/CMakeFiles/number_autogen.dir

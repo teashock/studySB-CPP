@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+5685189ea48187596ff69f728d00120e CMakeFiles/ball_autogen
+ea549d7c3d12e274b867cc2975a22241 ball_autogen/EWIEGA46WW/qrc_qml.cpp
